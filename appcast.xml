@@ -3,7 +3,7 @@
      xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>MarkNow</title>
-        <link>https://raw.githubusercontent.com/marknow-release/release/main/appcast.xml</link>
+        <link>https://github.com/marknow-release/release/releases/latest/download/appcast.xml</link>
         <description>MarkNow release feed</description>
         <language>en</language>
         <item>
@@ -14,7 +14,7 @@
 <p>*No significant changes*</p>
 <p>##### &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;[View changes on GitHub](https://github.com/marknow-release/app/compare/v0.0.1...v0.0.2)</p>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/marknow-release/release/main/MarkNow-0.0.2.dmg"
+            <enclosure url="https://github.com/marknow-release/release/releases/download/v0.0.2/MarkNow-0.0.2.dmg"
                        sparkle:version="2"
                        sparkle:shortVersionString="0.0.2"
                        sparkle:edSignature="yXhvAlRlNZfBsHCIWO69rSQnTez+e4XPb12Er8tMwqenLqcRqjp1eoAIulEfMO6OFIZuQGfaPZ90jXuf60mADw=="
